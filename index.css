@@ -84,7 +84,7 @@ body {
   box-shadow: 0 0 4px white;
   cursor: pointer;
 
-  transform: translateZ(120px);
+  transform: translateZ(80px);
 }
 /* #box1 {
     grid-row: span 2 / auto;
@@ -101,9 +101,7 @@ body {
     width: 100%;
     padding-inline: 5px;
   }
-  .box:hover{
-    transform: translateZ(80px);
-  }
+  
 }
 
 /* Media query for width <= 640px */
